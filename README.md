@@ -21,6 +21,8 @@ directly on a folder in your device (if your browser supports it).
 
 ### Settings
 
+![Settings image](./readme_assets/Settings.jpg)
+
 In the Settings, you can choose how many images should be displayed at a time.
 Keep this number quite low, otherwise the website might slow down. You can also
 choose to uncheck the images by default.
